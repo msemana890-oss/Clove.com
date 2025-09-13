@@ -1,0 +1,49 @@
+body {
+	background-image: url("ianne.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	
+} 
+.center {
+	color:blue;
+	font-size: 75px;
+	text-align:center;
+	margin:20px;	
+}
+.grd {
+	color:yellow;
+	font-size:30px;
+	text-align:center;
+	margin:20px;
+}h1 {
+	text-align:center;
+	color:white;
+	font-size:40px;
+	
+}
+h3 {
+	text-align:center;
+	color:gold;
+
+}
+img {
+	border: solid 10px;
+	color: yellow;
+	opacity:0.7;
+	margin:25px;
+	
+}
+img:hover {
+	opacity: 1;
+	transition: 1s;
+	width: 13%;
+	border: solid 10px red;
+	margin:20px;
+}
+
+
+	
+
+	
